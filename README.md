@@ -24,9 +24,8 @@ and currently expanding my skills in **Next.js** to explore full-stack and serve
 
 ## 💡 About Me
 
-- 🎓 I'm a **3rd semester BSCS student** passionate about **web development**  
+- 🎓 I'm a **BSCS student** passionate about **web development**  
 - 💻 I love building **modern, responsive, and user-friendly web apps**  
-- 🚀 Currently learning **Next.js** to improve my full-stack skills  
 - 🌱 I enjoy exploring new technologies and tools  
 - 🎯 Goal: To become a **professional MERN Stack Developer** and create impactful projects  
 ---
@@ -37,14 +36,10 @@ and currently expanding my skills in **Next.js** to explore full-stack and serve
 HTML | CSS | JavaScript | React.js | Tailwind CSS  
 
 **Backend:**  
-Node.js | Express.js  
+Node.js | Express.js | Next.js 🌙 
 
 **Database:**  
 MongoDB  
-
-**Currently Learning:**  
-Next.js 🌙
-
 
 
 ## 📂 Featured Projects
