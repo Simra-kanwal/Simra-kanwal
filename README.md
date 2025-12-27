@@ -17,7 +17,7 @@ and currently expanding my skills in **Next.js** to explore full-stack and serve
 <h3 align="center">💻 BSCS Student | MERN Stack Developer | Passionate Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A7DFF&center=true&vCenter=true&width=600&lines=BSCS+Student+%7C+MERN+Stack+Developer;Frontend+Enthusiast+🎨;Currently+Learning+Next.js+🚀;Always+Learning+Something+New+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A7DFF&center=true&vCenter=true&width=600&lines=BSCS+Student+%7C+MERN+Stack+Developer;Frontend+Enthusiast+🎨;Always+Learning+Something+New+✨" alt="Typing SVG" />
 </p>
 
 ---
